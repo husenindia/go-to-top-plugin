@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+/*********** THEME ***********/
+.go-to-top { height:36px; width:36px; background:#d8a500 url('../../images/scroll-top-arrow.png') no-repeat center center; position:fixed; bottom:10px; right:10px; display:none; cursor:pointer;  z-index:1111 }
+.go-to-top:hover { background-color:#ba8e00; }
